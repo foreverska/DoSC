@@ -1,3 +1,0 @@
-/home/adam/qt_projects/qDosc/DoSC/build/CMakeFiles/rebuild_cache.dir
-/home/adam/qt_projects/qDosc/DoSC/build/CMakeFiles/DoSC.dir
-/home/adam/qt_projects/qDosc/DoSC/build/CMakeFiles/edit_cache.dir
